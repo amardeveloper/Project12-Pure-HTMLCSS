@@ -16,7 +16,7 @@ I've been Working on this assigments that has been given by our mentor [Hitesh C
 - media queries
   
 ## Estimated time I took to complete this
-    - two and a half hour
+    - nine and a half hour
 
 ## _Here Is What I'm Working On👨‍💻_
 
